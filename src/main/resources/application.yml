@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: core
+logging:
+  level:
+    root: debug
